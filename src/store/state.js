@@ -1,4 +1,0 @@
-export default{
-    searchedMeals: [],
-    mealwithletters: [], 
-}
